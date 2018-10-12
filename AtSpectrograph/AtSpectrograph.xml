@@ -23,7 +23,7 @@
 								<xmi:Extension extender='MagicDraw UML 18.5'>
 									<diagramRepresentation>
 										<diagram:DiagramRepresentationObject ID='EAID_59E9CF59_6758_4e7e_B260_8ECC1EB8198Apr' diagramStyleID='_18_5_2_26310566_1539362750861_630274_15280' initialFrameSizeSet='true' requiredFeature=';UML_Standard_Profile.mdzip^UML_FEATURE' type='Class Diagram' umlType='Class Diagram' xmi:id='_hMRQwMLvEeeI_ZK6oUDUGA' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-											<diagramContents contentHash='b56ea62a-0237-4141-bd36-20f42fc8d27c' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_hMRQwcLvEeeI_ZK6oUDUGA'>
+											<diagramContents contentHash='f1714db2-e654-4320-803e-0551fe385231' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_hMRQwcLvEeeI_ZK6oUDUGA'>
 												<binaryObject streamContentID='BINARY-306344da-d41a-4a31-8661-7d7627d00d65' xmi:id='_hMRQwsLvEeeI_ZK6oUDUGA' xsi:type='binary:StreamIdentityBinaryObject'/>
 												<usedObjects href='#EAID_F314BA8B_6865_4eff_9D43_B5A3CD61071C'/>
 												<usedObjects href='#_18_5_2_26310566_1531175160368_920992_5915'/>
@@ -195,7 +195,7 @@
 								<xmi:Extension extender='MagicDraw UML 18.5'>
 									<diagramRepresentation>
 										<diagram:DiagramRepresentationObject ID='EAID_0ADDC926_D693_49e9_989B_633ADCFB409Fpr' diagramStyleID='_18_5_2_26310566_1539362750861_630274_15280' initialFrameSizeSet='true' requiredFeature=';UML_Standard_Profile.mdzip^UML_FEATURE' type='Class Diagram' umlType='Class Diagram' xmi:id='_hMUUEMLvEeeI_ZK6oUDUGA' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-											<diagramContents contentHash='e6a3438d-26d0-4957-8a72-f2a1c4909b75' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_hMUUEcLvEeeI_ZK6oUDUGA'>
+											<diagramContents contentHash='4e4d0da7-83b3-427b-b0eb-182831b59a76' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_hMUUEcLvEeeI_ZK6oUDUGA'>
 												<binaryObject streamContentID='BINARY-214baf70-b259-440b-8184-a2981e21f344' xmi:id='_hMUUEsLvEeeI_ZK6oUDUGA' xsi:type='binary:StreamIdentityBinaryObject'/>
 												<usedObjects href='#_18_5_2_26310566_1531173288558_811759_5718'/>
 												<usedObjects href='#_18_5_2_26310566_1535411520100_676917_15604'/>
@@ -354,7 +354,7 @@
 						</ownedAttribute>
 					</packagedElement>
 					<packagedElement xmi:type='uml:Signal' xmi:id='_18_5_2_26310566_1531173824216_532312_5784' name='rejectedCommand'>
-						<ownedAttribute xmi:type='uml:Property' xmi:id='_18_5_2_26310566_1531173838389_41450_5809' name='commandValue' visibility='private' type='_18_5_b1b02ca_1509977204373_483332_5575'>
+						<ownedAttribute xmi:type='uml:Property' xmi:id='_18_5_2_26310566_1531173838389_41450_5809' name='command' visibility='private' type='_18_5_b1b02ca_1509977204373_483332_5575'>
 							<xmi:Extension extender='MagicDraw UML 18.5'>
 								<modelExtension>
 									<lowerValue xmi:type='uml:LiteralInteger' xmi:id='_18_5_2_26310566_1531173850822_726356_5813' value='1'/>
@@ -366,7 +366,7 @@
 								</modelExtension>
 							</xmi:Extension>
 						</ownedAttribute>
-						<ownedAttribute xmi:type='uml:Property' xmi:id='_18_5_2_26310566_1531173915419_596550_5823' name='detailedState' visibility='private' type='_18_5_b1b02ca_1509977204373_483332_5575'>
+						<ownedAttribute xmi:type='uml:Property' xmi:id='_18_5_2_26310566_1531173915419_596550_5823' name='state' visibility='private' type='_18_5_b1b02ca_1509977204373_483332_5575'>
 							<xmi:Extension extender='MagicDraw UML 18.5'>
 								<modelExtension>
 									<lowerValue xmi:type='uml:LiteralInteger' xmi:id='_18_5_2_26310566_1531173928830_709110_5826' value='1'/>
@@ -517,7 +517,7 @@
 								<xmi:Extension extender='MagicDraw UML 18.5'>
 									<diagramRepresentation>
 										<diagram:DiagramRepresentationObject ID='_18_5_b1b02ca_1509977197504_168156_5560' diagramStyleID='_18_5_2_26310566_1539362750861_630274_15280' initialFrameSizeSet='true' requiredFeature=';UML_Standard_Profile.mdzip^UML_FEATURE' type='Class Diagram' umlType='Class Diagram' xmi:id='_Un_7EMLzEeeI_ZK6oUDUGA' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-											<diagramContents contentHash='0719a977-01e3-4485-9b69-1955a8d41b3f' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_Un_7EcLzEeeI_ZK6oUDUGA'>
+											<diagramContents contentHash='2215e0a8-f730-4f36-a52c-fc059055866f' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_Un_7EcLzEeeI_ZK6oUDUGA'>
 												<binaryObject streamContentID='BINARY-f235cdf4-d475-424e-9318-b300695e1030' xmi:id='_Un_7EsLzEeeI_ZK6oUDUGA' xsi:type='binary:StreamIdentityBinaryObject'/>
 												<usedObjects href='#_18_5_b1b02ca_1509977531588_841855_5738'/>
 												<usedObjects href='#_18_5_3_b1b02ca_1519318452686_183403_5559'/>
@@ -692,7 +692,7 @@
 							<xmi:Extension extender='MagicDraw UML 18.5'>
 								<diagramRepresentation>
 									<diagram:DiagramRepresentationObject ID='_18_5_2_26310566_1535062920714_798228_14991' diagramStyleID='_18_5_2_26310566_1539362750861_630274_15280' initialFrameSizeSet='true' requiredFeature='com.nomagic.magicdraw.plugins.impl.sysml#SysML;MD_customization_for_SysML.mdzip;UML_Standard_Profile.mdzip' type='SysML State Machine Diagram' umlType='State Machine Diagram' xmi:id='_9HmmoKciEeiBjqFY8phhZw' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-										<diagramContents contentHash='3f6cdf9b-3086-4fdb-8022-4be40e98fcb5' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_9HmmoaciEeiBjqFY8phhZw'>
+										<diagramContents contentHash='c26fc7a6-45ea-4137-be16-f84e76e450f8' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_9HmmoaciEeiBjqFY8phhZw'>
 											<binaryObject streamContentID='BINARY-ecc6de13-a47c-4ae7-92a8-adc3054186b5' xmi:id='_9HmmoqciEeiBjqFY8phhZw' xsi:type='binary:StreamIdentityBinaryObject'/>
 											<usedObjects href='#_18_5_2_26310566_1535062938829_798646_15010'/>
 											<usedObjects href='#_18_5_2_26310566_1535062961086_912541_15039'/>
@@ -738,7 +738,7 @@
 							<xmi:Extension extender='MagicDraw UML 18.5'>
 								<diagramRepresentation>
 									<diagram:DiagramRepresentationObject ID='_18_5_2_26310566_1535065766407_753709_15675' diagramStyleID='_18_5_2_26310566_1539362750861_630274_15280' initialFrameSizeSet='true' requiredFeature='com.nomagic.magicdraw.plugins.impl.sysml#SysML;MD_customization_for_SysML.mdzip;UML_Standard_Profile.mdzip' type='SysML State Machine Diagram' umlType='State Machine Diagram' xmi:id='_lKPxcKcpEeiBjqFY8phhZw' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-										<diagramContents contentHash='f01b5f67-ce78-4ced-8fbd-7b1afce56d8c' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_lKPxcacpEeiBjqFY8phhZw'>
+										<diagramContents contentHash='fb3442a0-7072-4d3c-a736-f694e63fc10d' exporterName='MagicDraw UML' exporterVersion='18.5' xmi:id='_lKPxcacpEeiBjqFY8phhZw'>
 											<binaryObject streamContentID='BINARY-c30c48b0-1cb7-4de1-a59d-668a2480e459' xmi:id='_lKPxcqcpEeiBjqFY8phhZw' xsi:type='binary:StreamIdentityBinaryObject'/>
 											<usedObjects href='#_18_5_2_26310566_1535065820736_528875_15712'/>
 											<usedObjects href='#_18_5_2_26310566_1535066233780_995619_15787'/>
@@ -947,19 +947,19 @@
 			<tag name='MagicDraw_Profile:HyperlinkOwner:hyperlinkText' tagID='_622020d_1063089736310_884303_1' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_622020d_1063089736310_884303_1'/>
 		</stereotypesHREFS>
 	</xmi:Extension>
+	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1535062920704_231379_14982' base_Diagram='_18_5_2_26310566_1535062920701_781058_14971' Creation_date='8/23/18 3:22 PM' Modification_date='8/27/18 3:27 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
+	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1535065766389_922500_15666' base_Diagram='_18_5_2_26310566_1535065766381_161437_15655' Creation_date='8/23/18 4:09 PM' Modification_date='8/27/18 3:38 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
 	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_b1b02ca_1509977197498_227446_5551' base_Diagram='_18_5_b1b02ca_1509977197494_883802_5540' Creation_date='11/6/17 11:06 AM' Modification_date='10/12/18 9:48 AM' Author='aanania' Last_modified_by='hsundararaman'/>
-	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1531176737973_707368_15727' base_Diagram='_18_5_2_26310566_1531176737945_391960_15713' Creation_date='7/9/18 3:52 PM' Modification_date='8/23/18 4:08 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
 	<MagicDraw_Profile:DiagramInfo xmi:id='d0e1840' base_Diagram='EAID_6C310968_D51C_4573_9D16_30220AE23845' Author='aanania'/>
 	<EA_Profile:EADiagram xmi:id='d0e1840application1' base_Diagram='EAID_6C310968_D51C_4573_9D16_30220AE23845' Version='1.0'/>
 	<MagicDraw_Profile:DiagramInfo xmi:id='d0e1793' base_Diagram='EAID_59E9CF59_6758_4e7e_B260_8ECC1EB8198A' Author='aanania'/>
 	<EA_Profile:EADiagram xmi:id='d0e1793application1' base_Diagram='EAID_59E9CF59_6758_4e7e_B260_8ECC1EB8198A' Version='1.0'/>
+	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1531176737973_707368_15727' base_Diagram='_18_5_2_26310566_1531176737945_391960_15713' Creation_date='7/9/18 3:52 PM' Modification_date='8/23/18 4:08 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
 	<MagicDraw_Profile:DiagramInfo xmi:id='d0e1814' base_Diagram='EAID_0ADDC926_D693_49e9_989B_633ADCFB409F' Author='aanania'/>
 	<EA_Profile:EADiagram xmi:id='d0e1814application1' base_Diagram='EAID_0ADDC926_D693_49e9_989B_633ADCFB409F' Version='1.0'/>
 	<MagicDraw_Profile:layoutTemplate xmi:id='d0e1814application2' base_Diagram='EAID_0ADDC926_D693_49e9_989B_633ADCFB409F'/>
 	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1535063557216_144976_15377' base_Diagram='_18_5_2_26310566_1535063557210_24763_15366' Creation_date='8/23/18 3:32 PM' Modification_date='8/27/18 3:27 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
-	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1535062920704_231379_14982' base_Diagram='_18_5_2_26310566_1535062920701_781058_14971' Creation_date='8/23/18 3:22 PM' Modification_date='8/27/18 3:27 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
 	<MagicDraw_Profile:HyperlinkOwner xmi:id='_18_5_2_26310566_1535063535272_427108_15361' base_Element='_18_5_2_26310566_1535062351267_656347_14890' hyperlinkModel='_18_5_2_26310566_1535062920701_781058_14971 _18_5_2_26310566_1535063557210_24763_15366' hyperlinkModelActive='_18_5_2_26310566_1535063557210_24763_15366'/>
-	<MagicDraw_Profile:DiagramInfo xmi:id='_18_5_2_26310566_1535065766389_922500_15666' base_Diagram='_18_5_2_26310566_1535065766381_161437_15655' Creation_date='8/23/18 4:09 PM' Modification_date='8/27/18 3:38 PM' Author='hsundararaman' Last_modified_by='hsundararaman'/>
 	<xmi:Extension extender='MagicDraw UML 18.5'>
 		<filePart name='proxy.local__PROJECT$h9b4d2b1641e6203934d95e7bde5fe08_resource_com$dnomagic$dci$dmetamodel$dproject$dsnapshot' type='XML' header='&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?&gt;'>
 <project:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:project="http://www.nomagic.com/ns/cameo/client/project/1.0" xmi:id="_obuDIG5dEeG47bdgtH4bfg" description="" id="PROJECT-9b4d2b1641e6203934d95e7bde5fe08">
@@ -1094,7 +1094,7 @@
 </filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.5'>
-		<filePart name='Binaries.properties' type='BINARY'>H4sIAAAAAAAAAD2QQUsDQQyF74X+h4VezZJkMjOZggc9CB5UUC+eJJuZlULXQlH8+47F9vLI4cvLy9usV5u742548q+BeMCyjbgNOjy8vA6MpOuVH5bx87DYx87Hk9aj/Yzfy/59OdS2H096fXv/ePP8BgFTEKkGVchALBBoSgS55sS5ItYUr/7ZuZKXijNwQgQprFDM+tRMUvCm1NqF5RC9ztJ9cwRhaVACKUwBMZXYCAOeWQ/oohMC+ZRBaiOwWCqkpMai2CSWM8skk80ZYeJYQAQnUFIB49LPM839mzNr6k4eFEJGAUnGoIUZsk4zBq3VyyVvc0/9cACT7L2HlqGwKVjt6aKQpunSQ3QORBQh6l+GHh6sf98XRJzUu29dr34BX52qCKkBAAA=</filePart>
+		<filePart name='Binaries.properties' type='BINARY'>H4sIAAAAAAAAAD2QQUsDQQyF74X+h4VezZJkMjOZggc9CB5UUC+eJJuZlULXQlH8+47FFkLI4ct7L9msV5u742548q+BuNcWcRt1eHh5HRhJ1ys/LOPnYbGPnY+nXo/2M34v+/flUNt+PPXr2/vHm+c3CJiCSDWoQgZigUBTIsg1J84VsaZ49c/OlbxUnIETIkhhhWLWp2aSgjel1i4sh+h1lq6bIwhLgxJIYQqIqcRGGPDMekAXnRDIpwxSG4HFUiElNRbFJrGcWSaZbM4IE8cCIjiBkgoYl27PNPdrzqypO3lQCBkFJBmDFmbIOs0YtFYvl7zNPXXjACbZ+x9ahsKmYLWni0KapssfonMgoghR/zL08GD9+r4g4qTedet69Qs/tPIqqQEAAA==</filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.5'>
 		<filePart name='BINARY-fd1c9d0f-2600-4928-9aa0-4ea463ce81ee' type='XML' header='&lt;?xml version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;?&gt;'>
@@ -2173,7 +2173,7 @@
 </filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.5'>
-		<filePart name='personal-Binaries.properties' type='BINARY'>H4sIAAAAAAAAAFPm5VJ2K8pU8E8uUTA0UjCwtDI1sDK2UPANDlEwMjC04OUCADA+o1giAAAA</filePart>
+		<filePart name='personal-Binaries.properties' type='BINARY'>H4sIAAAAAAAAAFPm5VJ2K8pU8E8uUTA0AiIrAwMrUwsF3+AQBSMDQwteLgDNzyqoIgAAAA==</filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.5'>
 		<filePart name='BINARY-a8cc1c38-3704-46a2-8922-78bf038ddc9e' type='XML' header='&lt;?xml version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;?&gt;'>
@@ -2309,17 +2309,17 @@
 	<xmi:Extension extender='MagicDraw UML 18.5'>
 		<filePart name='com.nomagic.ci.persistence.local.proxy.privatedependencylist' type='XML' header='&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?&gt;'>
 <snapshot:PrivateDependenciesContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:snapshot="http://www.nomagic.com/ns/cameo/client/snapshot/1.0" xmi:id="_xWwQcMLxEeeI_ZK6oUDUGA">
-  <referencedResources xmi:id="_8lyckM4-EeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-9b4d2b1641e6203934d95e7bde5fe08?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
+  <referencedResources xmi:id="_J0plYM5REeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-9b4d2b1641e6203934d95e7bde5fe08?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
     <referencedObjects>_12_0EAPbeta_be00301_1156851270584_552173_1</referencedObjects>
   </referencedResources>
-  <referencedResources xmi:id="_8lyckc4-EeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-a32468f66d8397ed4d1c68a920cce3?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
+  <referencedResources xmi:id="_J0plYc5REeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-a32468f66d8397ed4d1c68a920cce3?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
     <referencedObjects>_16_6beta_1aee0476_1250741802015_668183_439</referencedObjects>
     <referencedObjects>_16_6beta_1aee0476_1250741839703_44383_467</referencedObjects>
   </referencedResources>
-  <referencedResources xmi:id="_8lycks4-EeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-723d63d016c992e03a5b3baa1ad7cd80?resource=com.nomagic.magicdraw.uml_umodel.model">
+  <referencedResources xmi:id="_J0plYs5REeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-723d63d016c992e03a5b3baa1ad7cd80?resource=com.nomagic.magicdraw.uml_umodel.model">
     <referencedObjects>_18_5_b1b02ca_1509975563706_346758_0</referencedObjects>
   </referencedResources>
-  <referencedResources xmi:id="_8lyck84-EeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
+  <referencedResources xmi:id="_J0plY85REeiEWYrSlOc8hA" originalResourceURI="local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
     <referencedObjects>_be00301_1073306188629_537791_2</referencedObjects>
     <referencedObjects>_9_0_be00301_1108044563999_784946_1</referencedObjects>
     <referencedObjects>_16_8beta_8ca0285_1257244649124_794756_344</referencedObjects>
@@ -3032,7 +3032,7 @@
     <mountPoints xmi:id="_hZJPIMLvEeeI_ZK6oUDUGA" sharePointID="magicdraw_uml_standard_profile_v_0001" containmentFeatureID="61" featureName="UML Model" containmentIndex="-1" containmentFeatureName="packagedElement">
       <mountedPoint href="PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#magicdraw_uml_standard_profile_v_0001"/>
       <mountedOn href="PROJECT-723d63d016c992e03a5b3baa1ad7cd80?resource=com.nomagic.magicdraw.uml_umodel.model#_18_5_b1b02ca_1509975563706_346758_0"/>
-      <options xmi:id="_8kTO0s4-EeiEWYrSlOc8hA" key="preferredPath" value="::"/>
+      <options xmi:id="_JzLlwM5REeiEWYrSlOc8hA" key="preferredPath" value="::"/>
       <mountedSharePoint href="PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.ci.metamodel.project#_VbhywE_TEeCNOP_jel_PNg"/>
     </mountPoints>
     <properties xmi:id="_hNMd0MLvEeeI_ZK6oUDUGA" key="LOCAL_PROJECT_ID" value="PROJECT-877558e9224f114d50dea1f39a1c119"/>
@@ -3043,7 +3043,7 @@
     <mountPoints xmi:id="_hZJ2MMLvEeeI_ZK6oUDUGA" sharePointID="_16_0_1aee0476_1232006397515_556293_642" containmentFeatureID="61" featureName="UML Model" containmentIndex="-1" containmentFeatureName="packagedElement">
       <mountedPoint href="PROJECT-a32468f66d8397ed4d1c68a920cce3?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_16_0_1aee0476_1232006397515_556293_642"/>
       <mountedOn href="PROJECT-723d63d016c992e03a5b3baa1ad7cd80?resource=com.nomagic.magicdraw.uml_umodel.model#_18_5_b1b02ca_1509975563706_346758_0"/>
-      <options xmi:id="_8kTO0c4-EeiEWYrSlOc8hA" key="preferredPath" value="::"/>
+      <options xmi:id="_JzK-sc5REeiEWYrSlOc8hA" key="preferredPath" value="::"/>
       <mountedSharePoint href="PROJECT-a32468f66d8397ed4d1c68a920cce3?resource=com.nomagic.ci.metamodel.project#_6CHmoZv6EeCzi-DzYY00UA"/>
     </mountPoints>
     <properties xmi:id="_hNRWU8LvEeeI_ZK6oUDUGA" key="LOCAL_PROJECT_ID" value="PROJECT-a32468f66d8397ed4d1c68a920cce3"/>
@@ -3055,7 +3055,7 @@
     <mountPoints xmi:id="_upxUgIPKEeilQ5aGWRd8LA" sharePointID="_12_0EAPbeta_be00301_1156851270584_552173_1" containmentFeatureID="61" featureName="UML Model" containmentIndex="-1" containmentFeatureName="packagedElement">
       <mountedPoint href="PROJECT-9b4d2b1641e6203934d95e7bde5fe08?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_12_0EAPbeta_be00301_1156851270584_552173_1"/>
       <mountedOn href="PROJECT-723d63d016c992e03a5b3baa1ad7cd80?resource=com.nomagic.magicdraw.uml_umodel.model#_18_5_b1b02ca_1509975563706_346758_0"/>
-      <options xmi:id="_8kTO0M4-EeiEWYrSlOc8hA" key="preferredPath" value="::"/>
+      <options xmi:id="_JzK-sM5REeiEWYrSlOc8hA" key="preferredPath" value="::"/>
       <mountedSharePoint href="PROJECT-9b4d2b1641e6203934d95e7bde5fe08?resource=com.nomagic.ci.metamodel.project#_oe2PoG5dEeG47bdgtH4bfg"/>
     </mountPoints>
     <properties xmi:id="_uPB5QoPKEeilQ5aGWRd8LA" key="loadIndex" value="true"/>
@@ -3069,8 +3069,8 @@
   <properties xmi:id="_hMkywMLvEeeI_ZK6oUDUGA" key="standardProfile" value="false"/>
   <properties xmi:id="_hMkywcLvEeeI_ZK6oUDUGA" key="internalVersion" value="-1"/>
   <properties xmi:id="_xUEI0MLxEeeI_ZK6oUDUGA" key="exporterDescription" value="ac ed 0 5 73 72 0 2e 63 6f 6d 2e 6e 6f 6d 61 67 69 63 2e 70 65 72 73 69 73 74 65 6e 63 65 2e 58 6d 69 45 78 70 6f 72 74 65 72 44 65 73 63 72 69 70 74 69 6f 6e f5 3e fd c8 e7 3c 3b d7 2 0 5 4c 0 5 6d 4e 61 6d 65 74 0 12 4c 6a 61 76 61 2f 6c 61 6e 67 2f 53 74 72 69 6e 67 3b 4c 0 12 6d 52 65 71 75 69 72 65 64 50 6c 75 67 69 6e 4d 61 70 74 0 f 4c 6a 61 76 61 2f 75 74 69 6c 2f 4d 61 70 3b 4c 0 12 6d 52 65 71 75 69 72 65 64 52 65 73 6f 75 72 63 65 73 74 0 10 4c 6a 61 76 61 2f 75 74 69 6c 2f 4c 69 73 74 3b 4c 0 10 6d 55 4d 4c 4e 61 6d 65 73 70 61 63 65 55 52 49 71 0 7e 0 1 4c 0 8 6d 56 65 72 73 69 6f 6e 71 0 7e 0 1 78 70 74 0 d 4d 61 67 69 63 44 72 61 77 20 55 4d 4c 73 72 0 11 6a 61 76 61 2e 75 74 69 6c 2e 48 61 73 68 4d 61 70 5 7 da c1 c3 16 60 d1 3 0 2 46 0 a 6c 6f 61 64 46 61 63 74 6f 72 49 0 9 74 68 72 65 73 68 6f 6c 64 78 70 3f 40 0 0 0 0 0 3 77 8 0 0 0 4 0 0 0 2 74 0 5 53 79 73 4d 4c 74 0 4 31 38 2e 35 74 0 1a 43 61 6d 65 6f 20 52 65 71 75 69 72 65 6d 65 6e 74 73 20 4d 6f 64 65 6c 65 72 74 0 4 31 38 2e 35 78 73 72 0 13 6a 61 76 61 2e 75 74 69 6c 2e 41 72 72 61 79 4c 69 73 74 78 81 d2 1d 99 c7 61 9d 3 0 1 49 0 4 73 69 7a 65 78 70 0 0 0 4 77 4 0 0 0 4 73 72 0 32 63 6f 6d 2e 6e 6f 6d 61 67 69 63 2e 70 65 72 73 69 73 74 65 6e 63 65 2e 52 65 71 75 69 72 65 64 52 65 73 6f 75 72 63 65 44 65 73 63 72 69 70 74 6f 72 da cf 46 1f 32 8 f0 c5 2 0 3 49 0 3 6d 49 64 4c 0 5 6d 4e 61 6d 65 71 0 7e 0 1 4c 0 6 6d 56 61 6c 75 65 71 0 7e 0 1 78 70 0 0 5 a0 74 0 5 53 79 73 4d 4c 74 0 1b 53 79 73 4d 4c 20 53 74 61 74 65 20 4d 61 63 68 69 6e 65 20 44 69 61 67 72 61 6d 73 71 0 7e 0 e 0 0 5 c8 74 0 1a 43 61 6d 65 6f 20 52 65 71 75 69 72 65 6d 65 6e 74 73 20 4d 6f 64 65 6c 65 72 71 0 7e 0 a 73 71 0 7e 0 e 0 0 5 a0 71 0 7e 0 10 71 0 7e 0 8 73 71 0 7e 0 e 0 0 5 b1 74 0 1b 45 6e 74 65 72 70 72 69 73 65 20 41 72 63 68 69 74 65 63 74 20 49 6d 70 6f 72 74 74 0 10 45 41 5f 50 72 6f 66 69 6c 65 2e 6d 64 7a 69 70 78 70 74 0 4 31 38 2e 35 "/>
-  <properties xmi:id="_xUEI0cLxEeeI_ZK6oUDUGA" key="fileVersion" value="222"/>
-  <properties xmi:id="_xUEI0sLxEeeI_ZK6oUDUGA" key="saveID" value="9c3c1f5c-d082-4c9f-94f2-8f3e6451e755"/>
+  <properties xmi:id="_xUEI0cLxEeeI_ZK6oUDUGA" key="fileVersion" value="224"/>
+  <properties xmi:id="_xUEI0sLxEeeI_ZK6oUDUGA" key="saveID" value="f9954781-846a-4b41-b8aa-ae0582f974ee"/>
   <properties xmi:id="_xVOmcMLxEeeI_ZK6oUDUGA" key="MODEL_ROOT_HREF" value="local:/PROJECT-723d63d016c992e03a5b3baa1ad7cd80?resource=com.nomagic.magicdraw.uml_umodel.model#_18_5_b1b02ca_1509975563706_346758_0"/>
   <properties xmi:id="_xWET8MLxEeeI_ZK6oUDUGA" key="MODULES_DIRS" value="&lt;project.dir>&lt;>&lt;install.root>\profiles&lt;>&lt;install.root>\modelLibraries"/>
   <properties xmi:id="_xXVfQMLxEeeI_ZK6oUDUGA" key="CI_VERSION" value="V1702_SP1"/>
@@ -3579,6 +3579,6 @@
 </filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.5'>
-		<filePart name='Records.properties' type='BINARY'>H4sIAAAAAAAAAMVWy27bMBC8G/A/GIivNPgWGUCHNmiBFmhTtLn0ZFC7q0SFLRmy0tZ/XyZWlIejxkLt9CJR1HAH3J1Z8uSsWq5CU2TFomg2EyqbejMenbyvi8k5NBMhJ9yfGn6q3OTTt4uJ5MKNR2+LMtQFrWerulpR3cRh+szceBTHvzezRQVhMZ9/+Xr+8d3ZxfQqkQqtQi4seC+Jq2AylYUgAiaAjs9rWlfXNdAcquUUy2oZLguY4u0L6/BritfLxfx6WSEt4vT2tS7Dan1VNen/IB2PWiL2Ek+6LzCm+cPnN1+/s+AABCjHVMI10zZI5ryULHFZzpVDBE/pAGwsC9XrqgwLFrc6a3c66zY6g6qmmzL+IGhm1aopqjKWtV3TzrfT6eFC9aklKKmty61Fp3xCqFGAdcFLDkCqr2xQxBpRE9o6tVQvquQ4ZONRT3YoJmi5rEqIC6m8LEqiuigv02Hw3vDPJX8b4UkV/3F9J1XFrdIaA0MtAtNBCeasFSzBxMoEOUdr0gHYLrABqYQQhhlnPNMcNAtAjnmpNQgHUdeYDsA+ThkUs60c7go2Q1pDXayaqn4wfJynfRf16dpnGmUmrBZkJVdeafSGkgzJ5MTdgYV9JLbDmran166vQk14/3kMCw+j3pFPl6M7vzyVyg6gz7Q37Fvg7bPHmk9Qu3KOLbZYN1TGnnGboFarq7r4GRpCWlGJ8e9mEVE7sh6yuLMoAVgkoVjQCUQ/UxIdFxwLCIobLZzNOu/vg+0C51IZwFzHRpEYpqUm5pVwLFOc2yhiwRVPB2D7NOuSxBhH8bjUuRAaDUcKIlc+CBDCH9iQR2I7cLc5iCNfhfvAVT3Ixl+F+8F17rl7+d9+dhaLrgPtMs4EZAnT0ZosGI/MxsYpteOkjU8HYLvAUugs5Alnmbw5izXPmBMuHsjSO0Ey5kLrdAD2vinEru6R50xazpn2Mp7vIcQRBW1VPO4FdZfifbDj0R+9BBbjCg0AAA==</filePart>
+		<filePart name='Records.properties' type='BINARY'>H4sIAAAAAAAAAMVWTWvbQBC9G/wfDPF1zX5rN6BDG1pooU1pc+nJrGZGiYotGVlp63/fTawoH44ai9opGGu1ejuPnXlvdk/OquUqNEVWLIpmM6GyqTfj0cn7upicQzMRMv5OOT81bvLp28VEcuHGo7dFGeqC1rNVXa2obuIwfWZuPIrj35vZooKwmM+/fD3/+O7sYnqVSIVWIRcWvJfEVTCZykIQARNAx+c1ravrGmgO1XKKZbUMlwVM8faBdfg1xevlYn69rJAWcXr7WJdhtb6qmvR/kI5HLRF7iSfdFxjT/OHzm6/fWXAAApRjKuGaaRskc15Klrgs58ohgqd0ADaWhep1VYYFi1udtTuddRudQVXTTRl/EDSzatUUVRnL2q5p59vp9HCh+tQSlNTW5daiUz4h1CjAuuAlByDVVzYoYo2oCW2dWqoXVXIcsvGoJzsUE7RcViXEhVReFiVRXZSX6TB4b/jnkr+N8KSK/7i+k6riVmmNgaEWgemgBHPWCpZgYmWCnKM16QBsF9iAVEIIw4wznmkOmgUgx7zUGoSDqGtMB2AfpwyK2VYOdwWbIa2hLlZNVT8YPs7Tvov6dO0zjTITVguykiuvNHpDSYZkcuLuwMI+EtthTdvTa9dXoSa8fz2GhYdR78iny9GdX55KZQfQZ9ob9i3w9r/Hmk9Qu3KOLbZYN1TGnnGboFarq7r4GRpCWlGJ8etmEVE7sh6yuLMoAVgkoVjQCUQ/UxIdFxwLCIobLZzNOu/vg+0C51IZwFzHRpEYpqUm5pVwLFOc2yhiwRVPB2D7NOuSxBhH8bjUuRAaDUcKIlc+CBDCH9iQR2I7cLc5iCNfhfvAVT3Ixl+F+8F17rl7+d8+dhaLrgPtMs4EZAnT0ZosGI/MxsYpteOkjU8HYLvAUugs5Alnmbw5izXPmBMuHsjSO0Ey5kLrdAD2vinEru6R50xazpn2Mp7vIcQRBW1VPO4FdZfifbDj0R8YMGK6Cg0AAA==</filePart>
 	</xmi:Extension>
 </xmi:XMI>
